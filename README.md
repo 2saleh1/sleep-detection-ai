@@ -152,7 +152,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or issues:
 
-1. Check the [Issues](https://github.com/yourusername/sleep-detection-ai/issues) page
+1. Check the [Issues](https://github.com/2saleh1/sleep-detection-ai/issues) page
 2. Create a new issue with detailed description
 3. Include screenshots and error messages if applicable
 
