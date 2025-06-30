@@ -123,11 +123,6 @@ sleep-detection-ai/
 - **NumPy**: Numerical computations
 - **Tkinter**: GUI framework (built into Python)
 
-### System Requirements
-- **OS**: Windows 10/11, macOS 10.14+, or Linux
-- **RAM**: Minimum 4GB (8GB recommended)
-- **Storage**: 100MB free space
-- **Python**: 3.8 - 3.11
 
 ## 🤝 Contributing
 
