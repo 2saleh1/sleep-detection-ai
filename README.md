@@ -141,12 +141,6 @@ sleep-detection-ai/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- TensorFlow team for the machine learning framework
-- Tkinter developers for the GUI toolkit
-- [ThisPersonDoesNotExist.com](https://thispersondoesnotexist.com) for AI-generated demo images
-- The open-source community for inspiration and resources
 
 ## 📞 Support
 
