@@ -2,7 +2,9 @@
 
 A modern desktop application that uses artificial intelligence to detect sleep states from facial images. Built with Python, TensorFlow/Keras, and Tkinter with a sleek dark theme interface.
 
-![Sleep Detection Demo](demo_screenshot.png)
+![Sleep Detection Demo](screenshots/demo_screenshot.png)
+
+> **Note**: The person shown in the demo screenshot is AI-generated and not a real individual. The image was sourced from [ThisPersonDoesNotExist.com](https://thispersondoesnotexist.com) for demonstration purposes only.
 
 ## ✨ Features
 
@@ -92,6 +94,7 @@ sleep-detection-ai/
 ├── labels.txt             # Class labels file
 ├── requirements.txt       # Python dependencies
 ├── README.md             # Project documentation
+├── LICENSE               # MIT License file
 ├── .gitignore           # Git ignore file
 └── screenshots/         # Demo images
     └── demo_screenshot.png
@@ -126,8 +129,6 @@ sleep-detection-ai/
 - **Storage**: 100MB free space
 - **Python**: 3.8 - 3.11
 
-
-
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -144,6 +145,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - TensorFlow team for the machine learning framework
 - Tkinter developers for the GUI toolkit
+- [ThisPersonDoesNotExist.com](https://thispersondoesnotexist.com) for AI-generated demo images
 - The open-source community for inspiration and resources
 
 ## 📞 Support
