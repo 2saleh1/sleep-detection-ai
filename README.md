@@ -147,4 +147,4 @@ If you have any questions or issues:
 
 ---
 
-**⭐ If you find this project helpful, please give it a star on GitHub!**
+**⭐ If you find this project helpful, please give it a star!**
